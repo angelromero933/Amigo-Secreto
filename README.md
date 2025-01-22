@@ -8,8 +8,6 @@ _El siguiente link te permitira obtener una copia del proyecto base para propós
 
 [Proyecto base](https://github.com/Oracle-Next-Education/challenge-amigo-secreto_esp/archive/refs/heads/main.zip)
 
-[Proyecto en funcionamiento]()
-
 ## Construido con 🛠️
 
 *  **CSS**
